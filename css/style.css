@@ -92,22 +92,31 @@ margin-top:50px;
 
 
 
-.container{ 
-   position: relative;
-   text-align: center;
+#container{ 
+   background-image: url(img/list-bg.png);
+   position:relative;
+  
+   width: 75em;
+   margin-left:400px;
+   
    }
 
    .left1q{
-      text-align: center;
-      margin-top:-70px;
-      margin-left:-600px;
      
+      position: relative;
+    left: 500px;
+    bottom:400px;
+    line-height: 2.8;
+    font-size: large;
+
    }
 
    .right1q{
-
-      text-align: center;
-      margin-top:-70px;
-      margin-bottom: 80px;
-        margin-right:-300px;
+      position: relative;
+      bottom:700px;
+      left: 1200px;
+      line-height: 2.8;
+      font-size: large;
    }
+
+   #mainpic12{width: 200em;}
