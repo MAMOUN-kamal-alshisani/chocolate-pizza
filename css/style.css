@@ -91,19 +91,24 @@ width:30px;}
 #pic5{margin-left:-2px;
    width:30px;}
 
-
-
-  #box1:checked + label {
-     
-     text-decoration: line-through;
+   .paragarph{font-size: 25px;
+      text-align: justify;
+      
+   margin-left:300px;
+   margin-top:50px;
+      line-height: 1.2;
    }
-   #box1:checked + label{text-decoration: line-through;}
-   #box2:checked + label{text-decoration: line-through;}
-   #box3:checked + label{text-decoration: line-through;}
-   #box4:checked + label{text-decoration: line-through;}
-   #box5:checked + label{text-decoration: line-through;}
-   #box6:checked + label{text-decoration: line-through;}
-   #box7:checked + label{text-decoration: line-through;}
+   #para11{text-indent: 50px;}
+#para12{text-indent: 50px;}
+#para13{text-indent: 50px;}
+  
+#box1:checked + label{text-decoration: line-through;}
+#box2:checked + label{text-decoration: line-through;}
+#box3:checked + label{text-decoration: line-through;}
+#box4:checked + label{text-decoration: line-through;}
+#box5:checked + label{text-decoration: line-through;}
+#box6:checked + label{text-decoration: line-through;}
+#box7:checked + label{text-decoration: line-through;}
    #box8:checked + label{text-decoration: line-through;}
    #box9:checked + label{text-decoration: line-through;}
    #box10:checked + label{text-decoration: line-through;}
@@ -111,5 +116,83 @@ width:30px;}
    #box12:checked + label{text-decoration: line-through;}
   
 
+   #listimg
+   {
+      width:70%;
+      
+      position: relative;
+      padding-top:20px;
+   margin-left:300px;
+   
+   }
+   .left11{
 
-    
+      
+       margin-left:400px;
+      margin-top:-420px;
+      font-weight:italic;
+      line-height: 2.0;
+      font-size: x-large
+
+    }
+
+    .right1q{
+   
+      text-align:center;
+      margin-right:-600px;
+      margin-top :-450px;
+      font-weight:italic;
+      line-height: 2.5;
+      font-size: x-large
+   }
+#list1{position: relative;
+
+
+}
+
+
+#vant{float:left;
+   padding-top: 30px;
+padding-right: 30px;
+
+}
+#van{font-size: x-large;
+   font-weight: bold;
+   
+   padding-top: 20px;
+   }
+   #share{
+float:right;
+margin-right:300px;
+width:200px;
+color:white;
+background-color:#EB5C0B;
+height: 50px;
+
+
+
+
+   }
+
+
+   #hello{font-size:xx-large;
+      padding-top:10px;
+      
+   }
+   #new{margin-left:50%;
+      margin-top:-40px;
+      width: 50px;
+      margin-bottom:100px;
+      
+   }
+.lineline{}
+
+#hrhr{margin-top:200px;}
+
+#footer{
+margin-left:60px;
+margin-top:-60px;
+   text-align: center;
+
+color:grey;
+}
